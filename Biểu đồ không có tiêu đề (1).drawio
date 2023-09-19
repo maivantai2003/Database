@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T18:37:26.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VT7NSyIeBUP_FbkshlRc" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T02:02:52.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GC3yJ1rTiTGsvgS1K-lh" version="21.7.5" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
     <mxGraphModel dx="1548" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -423,13 +423,13 @@
           <mxGeometry y="130" width="222" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uHs2JWFgq39b8XywON-e-80" value="LichSuMuaHang" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="720" width="280" height="78" as="geometry" />
+          <mxGeometry x="580" y="730" width="220" height="78" as="geometry" />
         </mxCell>
         <mxCell id="uHs2JWFgq39b8XywON-e-81" value="MaKhachHang:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uHs2JWFgq39b8XywON-e-80">
-          <mxGeometry y="26" width="280" height="26" as="geometry" />
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uHs2JWFgq39b8XywON-e-82" value="MaSanPham:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uHs2JWFgq39b8XywON-e-80">
-          <mxGeometry y="52" width="280" height="26" as="geometry" />
+        <mxCell id="uHs2JWFgq39b8XywON-e-102" value="MaHoaDon:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="uHs2JWFgq39b8XywON-e-80">
+          <mxGeometry y="52" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uHs2JWFgq39b8XywON-e-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.636;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;" edge="1" parent="1" source="jPV6cfnG6z42-FubY8gx-19" target="uHs2JWFgq39b8XywON-e-80">
           <mxGeometry relative="1" as="geometry" />
