@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T18:15:04.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qFqqr-kmtof0Gf28tlzx" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T18:17:24.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ofztTB8l8cswvvnsNKcF" version="21.7.5" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
     <mxGraphModel dx="1258" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0cVCGOQLwv9LfwPmxk84-5" value="PhieuDoi" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="560" width="160" height="130" as="geometry" />
+          <mxGeometry x="2240" y="560" width="160" height="156" as="geometry" />
         </mxCell>
         <mxCell id="0cVCGOQLwv9LfwPmxk84-6" value="MaPhieuDoi:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0cVCGOQLwv9LfwPmxk84-5">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -461,6 +461,9 @@
         </mxCell>
         <mxCell id="0cVCGOQLwv9LfwPmxk84-47" value="TongTien:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0cVCGOQLwv9LfwPmxk84-5">
           <mxGeometry y="104" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="0cVCGOQLwv9LfwPmxk84-48" value="TrangThai:nvarchar(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="0cVCGOQLwv9LfwPmxk84-5">
+          <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0cVCGOQLwv9LfwPmxk84-25" value="ChiTietPhieuTra" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1710" y="310" width="170" height="156" as="geometry" />
