@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T12:31:51.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="XuWK3WULAVEHXnRBV_dI" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T10:53:59.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9TVEWSKPz31tRTnStoWs" version="21.7.5" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
-    <mxGraphModel dx="476" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1246" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,9 +106,6 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6RFZDff2Cd3n8iW6gW3c-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="6RFZDff2Cd3n8iW6gW3c-30" target="6RFZDff2Cd3n8iW6gW3c-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6RFZDff2Cd3n8iW6gW3c-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERmandOne;endFill=0;" parent="1" source="6RFZDff2Cd3n8iW6gW3c-50" target="6RFZDff2Cd3n8iW6gW3c-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6RFZDff2Cd3n8iW6gW3c-50" value="KhachHang" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
