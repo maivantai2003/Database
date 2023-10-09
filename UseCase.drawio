@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T09:54:12.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Uz-7qjZ91ld5Dt4abXr6" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T09:54:59.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YMk8RwqPWKHj_JXgOdM3" version="22.0.4" type="github">
   <diagram name="Trang-1" id="cRhxTb4dwH8EbBF6ad0r">
     <mxGraphModel dx="882" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,8 +25,19 @@
             <mxPoint x="430" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OS8SzAuIN68yGedKDTT5-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OS8SzAuIN68yGedKDTT5-15" value="Tìm Kiếm Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OS8SzAuIN68yGedKDTT5-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="OS8SzAuIN68yGedKDTT5-4" target="OS8SzAuIN68yGedKDTT5-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="620" as="sourcePoint" />
+            <mxPoint x="430" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OS8SzAuIN68yGedKDTT5-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OS8SzAuIN68yGedKDTT5-16">
+          <mxGeometry x="0.077" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
