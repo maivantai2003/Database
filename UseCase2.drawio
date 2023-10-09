@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T10:46:20.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6jtgkOsixX8_QIF6c2BA" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T10:48:02.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Ex6LjDtDSF_kVxxF2gFW" version="22.0.4" type="github">
   <diagram name="Trang-1" id="QJZbRZGfM-PXYwlzMUmp">
     <mxGraphModel dx="1071" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,10 +58,10 @@
         <mxCell id="RvUNAcOlsdJRfi8_Bjso-16" value="Xóa Tài Khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RvUNAcOlsdJRfi8_Bjso-18" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="RvUNAcOlsdJRfi8_Bjso-16" target="RvUNAcOlsdJRfi8_Bjso-14">
+        <mxCell id="RvUNAcOlsdJRfi8_Bjso-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="360" as="sourcePoint" />
-            <mxPoint x="410" y="310" as="targetPoint" />
+            <mxPoint x="538.573593128807" y="228.2842712474619" as="sourcePoint" />
+            <mxPoint x="443.42640687118774" y="301.7157287525414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RvUNAcOlsdJRfi8_Bjso-19" value="Sửa Thông Tin Tài Khoản" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -71,6 +71,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="360" as="sourcePoint" />
             <mxPoint x="410" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RvUNAcOlsdJRfi8_Bjso-22" value="Phân Quyền" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RvUNAcOlsdJRfi8_Bjso-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="RvUNAcOlsdJRfi8_Bjso-22" target="RvUNAcOlsdJRfi8_Bjso-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="420" as="sourcePoint" />
+            <mxPoint x="410" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
