@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T10:24:47.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GSAmN_ZJihyaiNe7dp-i" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T10:26:05.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dGCQIFgvCBsXsOM5PAis" version="22.0.4" type="github">
   <diagram name="Trang-1" id="cRhxTb4dwH8EbBF6ad0r">
     <mxGraphModel dx="1250" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="OS8SzAuIN68yGedKDTT5-3" value="Nhân Viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="530" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OS8SzAuIN68yGedKDTT5-9" value="Xem Danh Sách Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OS8SzAuIN68yGedKDTT5-9" value="Danh Sách Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="360" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OS8SzAuIN68yGedKDTT5-15" value="Tìm Kiếm Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -68,6 +68,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OS8SzAuIN68yGedKDTT5-84" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.343;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OS8SzAuIN68yGedKDTT5-74" target="OS8SzAuIN68yGedKDTT5-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="390" as="sourcePoint" />
+            <mxPoint x="420" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OS8SzAuIN68yGedKDTT5-85" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OS8SzAuIN68yGedKDTT5-15" target="OS8SzAuIN68yGedKDTT5-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="390" as="sourcePoint" />
             <mxPoint x="420" y="340" as="targetPoint" />
