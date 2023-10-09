@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T14:44:49.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SRtl06E4O9MU6Jna9TTp" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T14:45:35.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="s9jSaBjAWATtD8J4Zih3" version="22.0.4" type="github">
   <diagram name="Trang-1" id="7ljvGDeLDGa17OD1JR5d">
     <mxGraphModel dx="1184" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="610" height="720" as="geometry" />
+        </mxCell>
         <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-2" value="Nhân Viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="490" width="30" height="60" as="geometry" />
         </mxCell>
