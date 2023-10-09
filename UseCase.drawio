@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T10:26:05.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dGCQIFgvCBsXsOM5PAis" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T10:26:24.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kYWLJow_DYdVnjQs-GFH" version="22.0.4" type="github">
   <diagram name="Trang-1" id="cRhxTb4dwH8EbBF6ad0r">
     <mxGraphModel dx="1250" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,13 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OS8SzAuIN68yGedKDTT5-72" value="Xem Thông Tin Chi Tiết Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="270" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OS8SzAuIN68yGedKDTT5-73" value="Xem Lịch Sử Mua Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="355" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OS8SzAuIN68yGedKDTT5-74" value="Xem Chi Tiết&amp;nbsp; Đơn Hàng Đã Mua" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="220" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OS8SzAuIN68yGedKDTT5-76" value="Danh Sách Hóa Đơn" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="460" width="120" height="80" as="geometry" />
