@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T11:18:28.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BKsm9w6PEkfn8JiG0XRb" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T11:19:04.231Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VnQI0KRY-z8akqlMoCg_" version="22.0.4" type="github">
   <diagram name="Trang-1" id="7ljvGDeLDGa17OD1JR5d">
     <mxGraphModel dx="1184" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-12" value="Quản Lý Khách Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="390" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-16" value="Báo Cáo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-16" value="Quản Lý Nhập Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-19" value="Quản Lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
