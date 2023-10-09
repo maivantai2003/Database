@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-09T11:24:04.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="L9ZFlW7qrReUeZgb9HWO" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-09T11:24:31.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="jswubnoQ3k1o5uxiZESX" version="22.0.4" type="github">
   <diagram name="Trang-1" id="7ljvGDeLDGa17OD1JR5d">
     <mxGraphModel dx="1184" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-36" value="Quản Lý Bán Hàng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sCvsK1VOC5Rw-EsPWQ3r-38" value="Quản Lý Sản Phẩm" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
