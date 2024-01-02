@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T15:22:42.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Motz0Jcks2vN6mPPs0cM" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T15:22:58.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="51dV0uOY8legrpcL8_XB" version="22.1.16" type="github">
   <diagram name="Trang-1" id="ebLVP_EeFep824AZLhWY">
     <mxGraphModel dx="1006" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,7 +579,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mf6Q-_Wy_8qMlMQXo93_-12" value="Lập Phiếu Thu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1145" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
